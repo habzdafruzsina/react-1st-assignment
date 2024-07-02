@@ -1,6 +1,12 @@
 # 1. beadandó: Bérkalkulátor
 
+ELTE IK
 _Kliensoldali webprogramozás 1. beadandó 2023-24-2_
+_tárgyfelelős: Horváth Győző_
+
+## Élő alkalmazás
+
+[Stackblitz](https://stackblitz.com/edit/vitejs-vite-xatnbw)
 
 ## Nyilatkozat
 
